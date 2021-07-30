@@ -1,5 +1,5 @@
 # dl_paper_model
-Deel learning paper and with write model net code by Pytorch 
+Deep learning paper and with write model net code by Pytorch 
 
 ## l have read paper,and l will write this paper Model Net code in there.
 
